@@ -1,0 +1,17 @@
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\YourLogo.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\YourLogo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\YourLogo.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\YourLogo.Business.AssemblyInfo.cs
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\YourLogo.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\bin\Debug\net6.0\YourLogo.Business.deps.json
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\bin\Debug\net6.0\YourLogo.Business.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\bin\Debug\net6.0\YourLogo.Business.pdb
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\bin\Debug\net6.0\YourLogo.Core.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\bin\Debug\net6.0\YourLogo.Data.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\bin\Debug\net6.0\YourLogo.Data.pdb
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\bin\Debug\net6.0\YourLogo.Core.pdb
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\YourLogo.5B20E378.Up2Date
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\YourLogo.Business.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\refint\YourLogo.Business.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\YourLogo.Business.pdb
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Business\obj\Debug\net6.0\ref\YourLogo.Business.dll

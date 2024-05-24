@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYnTVegoVkM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ca.r215.03\\Desktop\\AB2044\\YourLogo.Core\\YourLogo.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ca.r215.03\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\ca.r215.03\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\ca.r215.03\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

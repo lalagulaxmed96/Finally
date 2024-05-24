@@ -1,0 +1,17 @@
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\YourLogo.Data.csproj.AssemblyReference.cache
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\YourLogo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\YourLogo.Data.AssemblyInfoInputs.cache
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\YourLogo.Data.AssemblyInfo.cs
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\YourLogo.Data.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\bin\Debug\net6.0\YourLogo.Data.deps.json
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\bin\Debug\net6.0\YourLogo.Data.runtimeconfig.json
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\bin\Debug\net6.0\YourLogo.Data.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\bin\Debug\net6.0\YourLogo.Data.pdb
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\bin\Debug\net6.0\YourLogo.Core.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\bin\Debug\net6.0\YourLogo.Core.pdb
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\YourLogo.92778065.Up2Date
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\YourLogo.Data.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\refint\YourLogo.Data.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\YourLogo.Data.pdb
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\YourLogo.Data.genruntimeconfig.cache
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Data\obj\Debug\net6.0\ref\YourLogo.Data.dll

@@ -1,0 +1,12 @@
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\bin\Debug\net6.0\YourLogo.Core.deps.json
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\bin\Debug\net6.0\YourLogo.Core.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\bin\Debug\net6.0\YourLogo.Core.pdb
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\obj\Debug\net6.0\YourLogo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\obj\Debug\net6.0\YourLogo.Core.AssemblyInfoInputs.cache
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\obj\Debug\net6.0\YourLogo.Core.AssemblyInfo.cs
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\obj\Debug\net6.0\YourLogo.Core.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\obj\Debug\net6.0\YourLogo.Core.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\obj\Debug\net6.0\refint\YourLogo.Core.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\obj\Debug\net6.0\YourLogo.Core.pdb
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\obj\Debug\net6.0\ref\YourLogo.Core.dll
+C:\Users\ca.r215.03\Desktop\AB2044\YourLogo.Core\obj\Debug\net6.0\YourLogo.Core.csproj.AssemblyReference.cache
